@@ -3,5 +3,5 @@
 .holder{
 	display:grid;
 	grid-template-colums: repeat(2, 200px);
-	grid-template-rows: repeat(2, 200p;x);
+	grid-template-rows: repeat(2, 200px);
 }
